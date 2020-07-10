@@ -2,6 +2,8 @@
 
 <!--
 **willianmonteiro/willianmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :books: Estudando sobre TDD e Design Patterns
+-->
 
 # Willian Monteiro :man_technologist:
 
@@ -12,10 +14,9 @@
 
 ### Hi there 👋
 
-Meu nome é Willian Monteiro.Sou desenvolvedor de Software. Crio experiências digitais que unem estratégia, design e tecnologia.
+Meu nome é Willian Monteiro. Sou desenvolvedor de Software. Crio experiências digitais que unem estratégia, design e tecnologia.
 
-- :office_worker: Trabalhando remoto como frontend para **Nexfar Tecnologia**
-- :blue_heart: Techs: Javascript, React.js, Node.js.
-- :books: Estudando sobre TDD e Design Patterns :heart:
+- :man_technologist: Trabalhando remoto como frontend para **Nexfar Tecnologia**
+- :rocket: Techs: Javascript, React.js, Node.js.
 
 > :octocat: [willianmonteiro.netlify.app](https://willianmonteiro.netlify.app/)
