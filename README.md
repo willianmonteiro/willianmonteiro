@@ -14,7 +14,7 @@
 
 ### Hi there 👋
 
-I'm Willian Monteiro, a software developer. I create digital experiences that combine strategy, design and technology.
+I'm Willian Monteiro, a software developer who creates digital experiences that combine strategy, design and technology.
 
 - :man_technologist: Currently working remote at **Nexfar Tecnologia**
 - :rocket: Techs: Javascript, React.js, Node.js.
