@@ -14,9 +14,9 @@
 
 ### Hi there 👋
 
-Meu nome é Willian Monteiro. Sou desenvolvedor de Software. Crio experiências digitais que unem estratégia, design e tecnologia.
+I'm Willian Monteiro, a software developer. I create digital experiences that combine strategy, design and technology.
 
-- :man_technologist: Trabalhando remoto como frontend para **Nexfar Tecnologia**
+- :man_technologist: Currently working remote at **Nexfar Tecnologia**
 - :rocket: Techs: Javascript, React.js, Node.js.
 
 > :octocat: [willianmonteiro.netlify.app](https://willianmonteiro.netlify.app/)
