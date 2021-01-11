@@ -12,6 +12,7 @@
 I'm Willian Monteiro, a software developer who creates digital experiences that combine strategy, design and technology.
 
 :man_technologist: Currently working remote at [**Nexfar Tecnologia**](https://nexfar.com.br/)
+
 :rocket: Techs: Javascript, React.js, Node.js.
 
 > :octocat: [willianmonteiro.netlify.app](https://willianmonteiro.netlify.app/)
