@@ -2,7 +2,6 @@
 
 <!--
 **willianmonteiro/willianmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- :books: Estudando sobre TDD e Design Patterns
 -->
 
 # Willian Monteiro :man_technologist:
@@ -11,7 +10,7 @@
 
 I'm Willian Monteiro, a software developer who creates digital experiences that combine strategy, design and technology.
 
-:man_technologist: Currently working remote at [**Nexfar Tecnologia**](https://nexfar.com.br/)
+:man_technologist: Currently working remote at Fractal Engenharia.
 
 :rocket: Techs: Javascript, React.js, Node.js.
 
