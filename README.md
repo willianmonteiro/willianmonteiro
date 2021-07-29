@@ -10,7 +10,7 @@
 
 I'm Willian Monteiro, a software developer who creates digital experiences that combine strategy, design and technology.
 
-:man_technologist: Currently working remote at Fractal Engenharia.
+:man_technologist: Working remotely to Fractal Engenharia.
 
 :rocket: Techs: Javascript, React.js, Node.js.
 
